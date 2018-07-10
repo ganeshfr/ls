@@ -1,0 +1,9 @@
+.col-12{text-align:center;}
+.btn-default{background-color: rgb(89, 230, 235);}
+h1{color:blue;
+   font-weight: bold;}
+table {border-collapse: collapse;}
+td{padding:5px;
+   border:1px solid black;}
+.first{background-color: rgb(18, 64, 181);
+       color:white;}
